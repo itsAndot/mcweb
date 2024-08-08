@@ -1,7 +1,7 @@
 # 🌐 MVRDA CITY Roleplay: Sitio web
 Web de MVRDA CITY ROLEPLAY, desarrollada con HTML, CSS y JavaScript. Incluye:
 
-🏠 Index: Incluye una barra de progreso y una cuenta atrás personalizable.
+🏠 Index: Incluye una barra de progreso y una cuenta atrás personalizable. El fondo va cambiando cada pocos segundos en todos los apartados.
 
 ![Index](https://github.com/itsAndot/mcweb/blob/main/screenshots/index.png)
 
@@ -32,8 +32,8 @@ Web de MVRDA CITY ROLEPLAY, desarrollada con HTML, CSS y JavaScript. Incluye:
 
 👤 PCU (Panel de Control de Usuario)
 
-Ver ![PCU](https://github.com/itsAndot/mcpanel/)
+Ver [PCU](https://github.com/itsAndot/mcpanel/)
 
 👮 PCP (Panel de Control Policial)
 
-Ver ![PCP](https://github.com/itsAndot/mcsapd/)
+Ver [PCP](https://github.com/itsAndot/mcsapd/)
